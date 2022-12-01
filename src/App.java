@@ -54,6 +54,24 @@ public class App {
         System.out.println("Player 2 wins!");
         Thread.sleep(3000);
         System.out.println("Jokes! :) Everyone's a winner if you had fun!");
+        Thread.sleep(5000);
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println("Except you, Kimory. You're an idiot.");
 
         
 
